@@ -1,4 +1,4 @@
-![Preview do projeto](assets/port-scanner.png)
+![Logo](assets/port-scanner.png)
 
 # 🔍 Port Scanner
 

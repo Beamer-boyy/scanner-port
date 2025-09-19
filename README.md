@@ -8,13 +8,15 @@
 
 Um simples **scanner de portas** desenvolvido em Python, útil para aprender sobre segurança de redes e como identificar portas abertas em um host.
 
+---
 
 ## 🚀 Funcionalidades
 - Escaneia portas de um intervalo definido (por padrão: 1–1024).  
 - Permite definir alvo (IP ou domínio).  
 - Salva resultados em um arquivo `.csv`.  
-- Exibe as portas abertas no console em tempo real.  
+- Exibe as portas abertas no console em tempo real.
 
+---
 
 ## 📂 Estrutura do Projeto
 
@@ -25,9 +27,10 @@ PortScanner/
 │   └── scan_results.csv
 └── README.md
 
+---
+
 ## ▶️ Como usar 
 1. Clone este repositório:
-  
 
 2. Execute no terminal: 
  python scanner.py -t 127.0.0.1 -s 1 -e 1024 -o results.csv

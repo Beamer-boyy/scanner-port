@@ -20,12 +20,14 @@ Um simples **scanner de portas** desenvolvido em Python, útil para aprender sob
 
 ## 📂 Estrutura do Projeto
 
+```
 PortScanner/
 ├── scanner.py
 ├── requirements.txt
 ├── results/
 │   └── scan_results.csv
 └── README.md
+```
 
 ---
 

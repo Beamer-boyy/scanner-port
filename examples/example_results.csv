@@ -1,0 +1,4 @@
+host,port,banner,scanned_at
+127.0.0.1,22,SSH-2.0-OpenSSH_7.9,2025-09-01T12:34:56Z
+127.0.0.1,80,Apache/2.4.41 (Ubuntu),2025-09-01T12:34:56Z
+127.0.0.1,8080,Python http.server,2025-09-01T12:34:56Z

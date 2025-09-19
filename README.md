@@ -1,6 +1,6 @@
 ![Logo](assets/port-scanner.png)
 <div style="text-align: center;">
-  <img src="assets/port-scanner.png" alt="Logo" width="700"/>
+  <img src="assets/port-scanner.png" alt="Logo" width="900"/>
 </div>
 
 

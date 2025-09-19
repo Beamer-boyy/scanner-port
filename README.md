@@ -1,7 +1,7 @@
 ![Logo](assets/port-scanner.png)
-<p>
-  <img src="assets/port-scanner.png" alt="Logo" width="700" align="center"/>
-</p>
+<div style="text-align: center;">
+  <img src="assets/port-scanner.png" alt="Logo" width="700"/>
+</div>
 
 
 # 🔍 Port Scanner

@@ -41,8 +41,8 @@ PortScanner/
 - No console:
 
 [+] Escaneando host: scanme.nmap.org
-[OPEN] Porta 22 (SSH)
-[OPEN] Porta 80 (HTTP)
+[+] [OPEN] Porta 22 (SSH)
+[+] [OPEN] Porta 80 (HTTP)
 
 - No arquivo example_results.cvs
 

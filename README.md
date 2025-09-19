@@ -47,6 +47,8 @@ PortScanner/
 
 -o → Arquivo de saída .csv
 
+---
+
 ## 📊 Exemplo de saída
 - No console:
 
@@ -62,6 +64,7 @@ Porta,Status
 22,OPEN
 80,OPEN
 
+---
 
 ## ⚙️ Pré-requisitos  
 - Python 3.8 ou superior  

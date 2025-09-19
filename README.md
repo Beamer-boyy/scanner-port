@@ -1,4 +1,4 @@
-![Logo](assets/logo.png)
+![Logo](assets/port-scanner.png)
 
 # 🔍 Port Scanner
 
